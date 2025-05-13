@@ -1,7 +1,7 @@
-💻 Estudos em C#
+# 💻 Estudos em C#
 Este repositório foi criado para documentar meu aprendizado em C#, uma linguagem moderna, versátil e amplamente usada no desenvolvimento de aplicações para Windows, web, jogos (com Unity), APIs e muito mais.
 
-🎯 Propósito
+# 🎯 Propósito
 Explorar os principais recursos da linguagem e consolidar os conhecimentos através de códigos, testes e projetos práticos. Entre os tópicos estudados estão:
 
 - Sintaxe básica e tipos de dados
@@ -16,6 +16,6 @@ Explorar os principais recursos da linguagem e consolidar os conhecimentos atrav
 
 - Trabalhando com eventos e exceções
 
-🚧 Em andamento
+# 🚧 Em andamento
 Este repositório está em constante atualização. Novos materiais serão adicionados conforme avanço nos estudos.
 
