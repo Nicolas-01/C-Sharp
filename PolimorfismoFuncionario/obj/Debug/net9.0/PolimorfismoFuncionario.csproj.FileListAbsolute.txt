@@ -1,0 +1,15 @@
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\PolimorfismoFuncionario\obj\Debug\net9.0\PolimorfismoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\PolimorfismoFuncionario\obj\Debug\net9.0\PolimorfismoFuncionario.AssemblyInfoInputs.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\PolimorfismoFuncionario\obj\Debug\net9.0\PolimorfismoFuncionario.AssemblyInfo.cs
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\PolimorfismoFuncionario\obj\Debug\net9.0\PolimorfismoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\PolimorfismoFuncionario\obj\Debug\net9.0\PolimorfismoFuncionario.sourcelink.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\PolimorfismoFuncionario\bin\Debug\net9.0\PolimorfismoFuncionario.exe
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\PolimorfismoFuncionario\bin\Debug\net9.0\PolimorfismoFuncionario.deps.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\PolimorfismoFuncionario\bin\Debug\net9.0\PolimorfismoFuncionario.runtimeconfig.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\PolimorfismoFuncionario\bin\Debug\net9.0\PolimorfismoFuncionario.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\PolimorfismoFuncionario\bin\Debug\net9.0\PolimorfismoFuncionario.pdb
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\PolimorfismoFuncionario\obj\Debug\net9.0\PolimorfismoFuncionario.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\PolimorfismoFuncionario\obj\Debug\net9.0\refint\PolimorfismoFuncionario.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\PolimorfismoFuncionario\obj\Debug\net9.0\PolimorfismoFuncionario.pdb
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\PolimorfismoFuncionario\obj\Debug\net9.0\PolimorfismoFuncionario.genruntimeconfig.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\PolimorfismoFuncionario\obj\Debug\net9.0\ref\PolimorfismoFuncionario.dll
