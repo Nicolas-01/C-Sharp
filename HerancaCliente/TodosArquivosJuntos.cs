@@ -1,4 +1,3 @@
-
 //******************** 
 //***** ATENÇÃO ******
 //********************
@@ -6,7 +5,6 @@
 // Este arquivo contém o conteúdo de todos os arquivos do exercício "HerançaCliente".
 // Foi criado para facilitar a visualização, permitindo que o código completo seja lido em um só lugar,
 // sem a necessidade de abrir vários arquivos individualmente.
-
 
 
 // -------- Arquivo Program.cs --------
