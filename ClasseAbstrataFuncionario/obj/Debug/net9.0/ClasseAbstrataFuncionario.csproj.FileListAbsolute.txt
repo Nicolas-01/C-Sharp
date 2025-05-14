@@ -1,0 +1,15 @@
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataFuncionario\bin\Debug\net9.0\ClasseAbstrataFuncionario.exe
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataFuncionario\bin\Debug\net9.0\ClasseAbstrataFuncionario.deps.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataFuncionario\bin\Debug\net9.0\ClasseAbstrataFuncionario.runtimeconfig.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataFuncionario\bin\Debug\net9.0\ClasseAbstrataFuncionario.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataFuncionario\bin\Debug\net9.0\ClasseAbstrataFuncionario.pdb
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataFuncionario\obj\Debug\net9.0\ClasseAbstrataFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataFuncionario\obj\Debug\net9.0\ClasseAbstrataFuncionario.AssemblyInfoInputs.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataFuncionario\obj\Debug\net9.0\ClasseAbstrataFuncionario.AssemblyInfo.cs
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataFuncionario\obj\Debug\net9.0\ClasseAbstrataFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataFuncionario\obj\Debug\net9.0\ClasseAbstrataFuncionario.sourcelink.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataFuncionario\obj\Debug\net9.0\ClasseAbstrataFuncionario.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataFuncionario\obj\Debug\net9.0\refint\ClasseAbstrataFuncionario.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataFuncionario\obj\Debug\net9.0\ClasseAbstrataFuncionario.pdb
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataFuncionario\obj\Debug\net9.0\ClasseAbstrataFuncionario.genruntimeconfig.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataFuncionario\obj\Debug\net9.0\ref\ClasseAbstrataFuncionario.dll

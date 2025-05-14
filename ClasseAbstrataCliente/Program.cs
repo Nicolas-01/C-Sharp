@@ -1,4 +1,4 @@
-﻿using AbstrataCliente;
+﻿using ClasseAbstrataCliente;
 
 //erro por não poder instanciar um objeto da classe base, pois ela é abstract
 //Cliente c = new Cliente();
