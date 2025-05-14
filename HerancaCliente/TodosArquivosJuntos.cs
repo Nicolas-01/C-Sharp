@@ -8,7 +8,6 @@
 // sem a necessidade de abrir vários arquivos individualmente.
 
 
-
 // -------- Arquivo Program.cs --------
 
 using HerancaCliente;
