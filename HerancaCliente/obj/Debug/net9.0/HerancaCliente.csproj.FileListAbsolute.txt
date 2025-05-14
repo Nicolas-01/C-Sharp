@@ -1,0 +1,15 @@
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\HerancaCliente\bin\Debug\net9.0\HerancaCliente.exe
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\HerancaCliente\bin\Debug\net9.0\HerancaCliente.deps.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\HerancaCliente\bin\Debug\net9.0\HerancaCliente.runtimeconfig.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\HerancaCliente\bin\Debug\net9.0\HerancaCliente.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\HerancaCliente\bin\Debug\net9.0\HerancaCliente.pdb
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\HerancaCliente\obj\Debug\net9.0\HerancaCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\HerancaCliente\obj\Debug\net9.0\HerancaCliente.AssemblyInfoInputs.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\HerancaCliente\obj\Debug\net9.0\HerancaCliente.AssemblyInfo.cs
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\HerancaCliente\obj\Debug\net9.0\HerancaCliente.csproj.CoreCompileInputs.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\HerancaCliente\obj\Debug\net9.0\HerancaCliente.sourcelink.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\HerancaCliente\obj\Debug\net9.0\HerancaCliente.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\HerancaCliente\obj\Debug\net9.0\refint\HerancaCliente.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\HerancaCliente\obj\Debug\net9.0\HerancaCliente.pdb
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\HerancaCliente\obj\Debug\net9.0\HerancaCliente.genruntimeconfig.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\HerancaCliente\obj\Debug\net9.0\ref\HerancaCliente.dll
