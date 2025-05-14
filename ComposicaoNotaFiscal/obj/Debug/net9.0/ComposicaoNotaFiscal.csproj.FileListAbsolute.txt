@@ -1,0 +1,15 @@
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ComposicaoNotaFiscal\obj\Debug\net9.0\ComposicaoNotaFiscal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ComposicaoNotaFiscal\obj\Debug\net9.0\ComposicaoNotaFiscal.AssemblyInfoInputs.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ComposicaoNotaFiscal\obj\Debug\net9.0\ComposicaoNotaFiscal.AssemblyInfo.cs
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ComposicaoNotaFiscal\obj\Debug\net9.0\ComposicaoNotaFiscal.csproj.CoreCompileInputs.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ComposicaoNotaFiscal\obj\Debug\net9.0\ComposicaoNotaFiscal.sourcelink.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ComposicaoNotaFiscal\bin\Debug\net9.0\ComposicaoNotaFiscal.exe
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ComposicaoNotaFiscal\bin\Debug\net9.0\ComposicaoNotaFiscal.deps.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ComposicaoNotaFiscal\bin\Debug\net9.0\ComposicaoNotaFiscal.runtimeconfig.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ComposicaoNotaFiscal\bin\Debug\net9.0\ComposicaoNotaFiscal.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ComposicaoNotaFiscal\bin\Debug\net9.0\ComposicaoNotaFiscal.pdb
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ComposicaoNotaFiscal\obj\Debug\net9.0\ComposicaoNotaFiscal.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ComposicaoNotaFiscal\obj\Debug\net9.0\refint\ComposicaoNotaFiscal.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ComposicaoNotaFiscal\obj\Debug\net9.0\ComposicaoNotaFiscal.pdb
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ComposicaoNotaFiscal\obj\Debug\net9.0\ComposicaoNotaFiscal.genruntimeconfig.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ComposicaoNotaFiscal\obj\Debug\net9.0\ref\ComposicaoNotaFiscal.dll
