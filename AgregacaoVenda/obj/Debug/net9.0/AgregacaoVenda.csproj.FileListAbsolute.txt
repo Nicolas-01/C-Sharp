@@ -1,0 +1,15 @@
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\AgregacaoVenda\bin\Debug\net9.0\AgregacaoVenda.exe
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\AgregacaoVenda\bin\Debug\net9.0\AgregacaoVenda.deps.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\AgregacaoVenda\bin\Debug\net9.0\AgregacaoVenda.runtimeconfig.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\AgregacaoVenda\bin\Debug\net9.0\AgregacaoVenda.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\AgregacaoVenda\bin\Debug\net9.0\AgregacaoVenda.pdb
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.AssemblyInfoInputs.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.AssemblyInfo.cs
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.csproj.CoreCompileInputs.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.sourcelink.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\AgregacaoVenda\obj\Debug\net9.0\refint\AgregacaoVenda.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.pdb
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.genruntimeconfig.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\AgregacaoVenda\obj\Debug\net9.0\ref\AgregacaoVenda.dll
