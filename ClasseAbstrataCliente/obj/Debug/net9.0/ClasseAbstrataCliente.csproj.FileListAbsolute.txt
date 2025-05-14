@@ -1,0 +1,15 @@
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataCliente\bin\Debug\net9.0\ClasseAbstrataCliente.exe
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataCliente\bin\Debug\net9.0\ClasseAbstrataCliente.deps.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataCliente\bin\Debug\net9.0\ClasseAbstrataCliente.runtimeconfig.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataCliente\bin\Debug\net9.0\ClasseAbstrataCliente.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataCliente\bin\Debug\net9.0\ClasseAbstrataCliente.pdb
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataCliente\obj\Debug\net9.0\ClasseAbstrataCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataCliente\obj\Debug\net9.0\ClasseAbstrataCliente.AssemblyInfoInputs.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataCliente\obj\Debug\net9.0\ClasseAbstrataCliente.AssemblyInfo.cs
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataCliente\obj\Debug\net9.0\ClasseAbstrataCliente.csproj.CoreCompileInputs.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataCliente\obj\Debug\net9.0\ClasseAbstrataCliente.sourcelink.json
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataCliente\obj\Debug\net9.0\ClasseAbstrataCliente.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataCliente\obj\Debug\net9.0\refint\ClasseAbstrataCliente.dll
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataCliente\obj\Debug\net9.0\ClasseAbstrataCliente.pdb
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataCliente\obj\Debug\net9.0\ClasseAbstrataCliente.genruntimeconfig.cache
+C:\Users\santo\OneDrive\Documentos\Fatec\Github\C-Sharp\ClasseAbstrataCliente\obj\Debug\net9.0\ref\ClasseAbstrataCliente.dll
